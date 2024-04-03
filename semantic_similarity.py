@@ -1,5 +1,4 @@
 import tensorflow as tf       # To work with USE4
-import pandas as pd           # To work with tables 
 import tensorflow_hub as hub  # contains USE4
 from numpy import dot                                           # to calculate the dot product of two vectors
 from numpy.linalg import norm      
